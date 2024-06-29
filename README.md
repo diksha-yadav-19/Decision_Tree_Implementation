@@ -22,7 +22,7 @@ The core concept behind any decision tree algorithm is as follows:
 
 Below is a flowchart that illustrates the approach:
 
-![Decision Tree Approach](img.jpg)
+![Decision Tree Approach](approch.jpg)
 
 ## For a Detailed Learning:
 
